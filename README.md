@@ -14,6 +14,14 @@ To run the code, you will need the following libraries:
 - opencv
 - matplolib
 
+### Running the Code:
+The code can be run using a Jupyter Notebook file. Follow the steps below to get started:
+1. Install Jupyter Notebook on your computer if you don't already have it installed
+2. Clone or download the project repository
+3. Open the Jupyter Notebook file in the repository
+4. Run the cells in the notebook to execute the code
+
+
 ### Image Sampling:
 The first step in the project is to sample the images using k-mean clustering. This step involves grouping similar images together and using them for analysis.
 
