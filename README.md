@@ -1,5 +1,9 @@
 # Segmentation and Classification of Diabetic Retinopathy
 
+### Get Dataset By Clicking:
+
+https://drive.google.com/file/d/19U-hV_g3OwIVSNb72HeIJl6gWt1vj39T/view?usp=sharing
+
 ## GOAL
 - Image sampling using k-mean clustering
 - Image segmentation
