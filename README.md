@@ -11,6 +11,8 @@ To run the code, you will need the following libraries:
 - OpenCV
 - Tensorflow
 - Sklearn
+- opencv
+- matplolib
 
 ### Image Sampling:
 The first step in the project is to sample the images using k-mean clustering. This step involves grouping similar images together and using them for analysis.
